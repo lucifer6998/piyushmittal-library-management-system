@@ -160,6 +160,6 @@ b5=Button(t,text="Return Book 2",command=ret2,bg="light blue",activebackground="
 b5.place(x=200,y=360)
 l13=Label(t,text="",bg="red")
 l13.place(x=50,y=388)
-l14=Label(t,text="CREATED BY : PIYUSH MITTAL",bg="black",fg="red",font="Times 16 bold")
+l14=Label(t,text="CREATED BY : Lucifer",bg="black",fg="red",font="Times 16 bold")
 l14.place(x=90,y=450)
 t.mainloop()
